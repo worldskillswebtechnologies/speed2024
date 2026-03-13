@@ -1,4 +1,4 @@
-# WorldSkills Lyon 2024 - Speed Test Tasks (South Korea)
+# WorldSkills Lyon 2024 - Speed Test Tasks
 
 This repository contains the Speed Test Tasks submitted by South Korea for the **WorldSkills Lyon 2024** competition.
 
